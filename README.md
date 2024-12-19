@@ -1,2 +1,2 @@
-# Basic_Machine_Learning_Algorithm
+# Basic_Machine_Learning_Algorithms
  
